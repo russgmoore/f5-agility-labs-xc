@@ -9,3 +9,6 @@ terraform.tfstate*
 *.swp
 .virtualenv
 docs/_build
+Pipfile
+Pipfile.lock
+.venv

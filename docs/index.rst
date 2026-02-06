@@ -17,6 +17,12 @@ Welcome to the |classbold| for F5 Appworld |year|
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
-   :glob:
 
-   class*/class*
+   class1/class1
+   class2/class2
+   class3/class3
+   class4/class4
+   class5/class5
+   class6/class6
+   class7/class7
+   class8/class8
